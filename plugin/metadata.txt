@@ -1,0 +1,8 @@
+[general]
+name=QGIS Starter Plugin
+email=pat@daburu.net
+author=Pat Daburu
+qgisMinimumVersion=2.0
+description=This is a simple QGIS plugin starter project.
+about=Let me tell you about this simple QGIS plugin starter project.
+version=version 0.1
